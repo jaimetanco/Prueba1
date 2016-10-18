@@ -11,4 +11,5 @@ Para los cambios realizados en el _readme_, he utilizado:
 
 ###He subido los siguientes archivos:
 - Tasca1. Texto plano, creado mediante el bloc de notas y guardado con la extensión .html
--
+-.ps
+.css
