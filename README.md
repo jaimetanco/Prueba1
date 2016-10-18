@@ -8,3 +8,5 @@ Para los cambios realizados en el _readme_, he utilizado:
 - _ Sirve para resaltar en cursiva.
 
 # Información de mi _Github_
+He subido los siguientes archivos:
+- 
