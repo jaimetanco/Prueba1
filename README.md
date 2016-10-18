@@ -5,5 +5,6 @@ Para los cambios realizados en el _readme_, he utilizado:
 - # Sirve para los distintos niveles de cabezera.
 - ()Sirve para poner enlaces directos.
 - * Sirve para resaltar en negrita.
-- _ Sirve para resaltar en cursiva
+- _ Sirve para resaltar en cursiva.
+
 # Información de mi _Github_
